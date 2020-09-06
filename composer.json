@@ -1,5 +1,5 @@
 {
-  "name": "nb_dev_chien/hello-world",
+  "name": "nbdevchien/hello-world",
   "type": "library",
   "description": "Your package description goes here",
   "keywords": ["relevant","tags","go","here"],
@@ -12,5 +12,5 @@
       "homepage": "http://nhannvt.com",
       "role": "Developer"
     }
-  ]
+  ],
 }
